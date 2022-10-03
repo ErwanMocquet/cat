@@ -4,7 +4,7 @@
     "description": "I love cats and dogs",
     "display": "standalone",
     "background_color": "#ffffff",
-    "theme_color": "#D676FF",
+    "theme_color": "#D5B895",
     "icons": [
         {
             "src": "icon-192.png",
